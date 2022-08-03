@@ -1,2 +1,2 @@
 # ALURA-SITE
- * esse repositorio guarda dados do meu site de roupas eespecifico parAa garotas trans
+ * esse repositorio guarda dados do meu site de roupas eespecifico para garotas trans
